@@ -8,7 +8,7 @@
 * [**Рекомендации по книгам**](https://github.com/i-galimov/python/blob/main/projects/books/my_favorite_books.py)
 * [**Русская рулетка**](https://github.com/i-galimov/python/blob/main/projects/roulette/roulette.py)
 ---
-### [Пример кода](https://github.com/i-galimov/ft_printf/blob/main/printf/ft_upper_hexadecimal.c](https://github.com/i-galimov/python/blob/main/projects/shuffle/shuffle_str.py) 
+### [Пример кода](https://github.com/i-galimov/python/blob/main/projects/shuffle/shuffle_str.py) 
 > *Это не баг, а фича*
 ```
 import shutil
@@ -49,5 +49,3 @@ f.close()
 print("Файл ", name_file, " перемешан! Результат хранится в файле shuffle.txt", sep='')
 ```
 ********
-> 
-![Печать](https://cdn.pixabay.com/photo/2014/05/21/22/28/old-newspaper-350376_1280.jpg)
