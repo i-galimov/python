@@ -5,7 +5,7 @@
 * [**Карманный переводчик с английского**](https://github.com/i-galimov/python/blob/main/projects/translate/lite_tutor_english1.0.py)
 * [**Парсер с Пикабу**](https://github.com/i-galimov/python/blob/main/projects/parser/parser-pikabu.py)
 * [**Боты в Телеграм**](https://github.com/i-galimov/python/tree/main/projects/Python_bot)
-* [**Рекомендации по книгам**](https://github.com/i-galimov/python/blob/main/projects/books/my_favorite_books.py)
+* [**Какую книжку почитать?*](https://github.com/i-galimov/python/blob/main/projects/books/my_favorite_books.py)
 * [**Русская рулетка**](https://github.com/i-galimov/python/blob/main/projects/roulette/roulette.py)
 ---
 ### [Пример кода](https://github.com/i-galimov/python/blob/main/projects/shuffle/shuffle_str.py) 
