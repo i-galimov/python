@@ -13,11 +13,13 @@
 ```
 import shutil
 import random
+
 name_file = input("Введите название файла, который нужно перемешать\n")
 try:
     c = open("shuffle.txt", "x")
 except:
     print('Файл "shuffle.txt" уже существует!')
+    
 encoding = [
 'utf-8',
 'windows-1252',
@@ -38,6 +40,7 @@ for enc in encoding:
         correct_encoding = enc
         break
 print("Кодировка файла -", correct_encoding)
+
 shutil.copy(name_file, "shuffle.txt", follow_symlinks=True)
 f = open("shuffle.txt", encoding=correct_encoding) 
 x = f.readlines() 
