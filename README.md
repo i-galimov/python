@@ -1,7 +1,7 @@
 # Проекты на Python
 
 ### 
-> *Путеводитель.*
+> *Путеводитель по проектам.*
 * [**Парсер с Пикабу**](https://github.com/i-galimov/python/blob/main/projects/parser/parser-pikabu.py)
 * [**Боты в Телеграм**](https://github.com/i-galimov/python/tree/main/projects/Python_bot)
 * [**Какую книжку почитать?**](https://github.com/i-galimov/python/blob/main/projects/books/my_favorite_books.py)
