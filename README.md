@@ -52,3 +52,4 @@ f.close()
 print("Файл ", name_file, " перемешан! Результат хранится в файле shuffle.txt", sep='')
 ```
 ********
+![Python](https://it-cube48.ru/wp-content/uploads/2020/08/Chto-takoe-Python_1000-0.jpg)
